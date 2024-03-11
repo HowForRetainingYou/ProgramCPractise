@@ -1,6 +1,6 @@
 ﻿#define _CRT_SECURE_NO_WARNINGS 1
 #include <stdio.h>
-
+#if 0
 //题目：https://www.nowcoder.com/practice/83d6afe3018e44539c51265165806ee4?tpId=107&&tqId=33349&rp=1&ru=/ta/beginner-programmers&qru=/ta/beginner-programmers/question-ranking
 
 //我的与博哥的答案本质上是一样的；
@@ -31,7 +31,7 @@ int main()
 
 }
 
-
+#endif 0
 
 //唐朝版答案；太繁琐
 int main3()
